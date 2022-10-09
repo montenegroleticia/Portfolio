@@ -1,0 +1,18 @@
+.container {
+    color: white;
+    font-size: 32px;
+    background-color: plum;
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 16px;
+} 
+
+footer {
+    bottom: 0px;
+    position: absolute;
+    text-align: center;
+    padding: 32px;
+}
